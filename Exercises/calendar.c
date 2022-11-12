@@ -435,4 +435,5 @@ void printDays(int end, int current, int offset) {
             count = 1;
         } 
     }
+    printf("\n");
 }
