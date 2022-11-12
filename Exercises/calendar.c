@@ -1,23 +1,23 @@
 /*===================================================================================
- * FILE: calendar.c
+ *         FILE: calendar.c
  *
- * USAGE: gcc calendar.c -o calendar
- *        windows: calendar
- *        linux: ./calendar
+ *        USAGE: gcc calendar.c -o calendar
+ *               windows: calendar
+ *               linux: ./calendar
  * 
- * DESCRIPTION: Displays the current day of the week, the number of days in the current
+ *  DESCRIPTION: Displays the current day of the week, the number of days in the current
  *              month and the current time. The program will work until the year 2099 is
  *              reached. The current day of the month is highlighted in red
  * 
- * OPTIONS: ---
+ *      OPTIONS: ---
  * REQUIREMENTS: ---
- * BUGS: ---
- * NOTES: ---
- * AUTHOR: Group C
- * COMPANY: St. Pauls University 
- * VERSION: 1.0
- * CREATED: 2022-11-11 - 2022-11-12
- * REVISION: --
+ *         BUGS: ---
+ *        NOTES: ---
+ *       AUTHOR: Group C
+ *      COMPANY: St. Pauls University 
+ *      VERSION: 1.0
+ *      CREATED: 2022-11-11 - 2022-11-12
+ *     REVISION: --
  * ===================================================================================
 */
 
