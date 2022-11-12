@@ -296,7 +296,8 @@ int startDay(int year, int month) {
         feb = 4;
     }
 
-    itoa(year, year_str, 10);
+    // itoa(year, year_str, 10);
+    sprintf(year_str, "%d", year);
     sprintf(digits_temp, "%c%c", year_str[2], year_str[3]);
     last_two_digits_of_year = atoi(digits_temp);
     one_quarter_of_two_digits = (0.25 * last_two_digits_of_year);
